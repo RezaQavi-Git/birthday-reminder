@@ -2,3 +2,5 @@ waitress
 requests
 flask
 python-dotenv
+
+pymongo
