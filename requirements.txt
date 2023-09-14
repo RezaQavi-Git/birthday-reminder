@@ -1,0 +1,4 @@
+waitress
+requests
+flask
+python-dotenv
